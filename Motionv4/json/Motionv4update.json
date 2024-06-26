@@ -1,6 +1,17 @@
 {
-    "version" :431.004,
-    "title" : "Motion v4.3.1.4更新",
-    "about" : "修复部分用户最新版Ae黑屏的情况",
-    "uptime" : "2024-05-23 20:22" 
+    "version" :434.001,
+    "title" : "Motion v4.3.4.1更新",
+    "about" : "新增功能：\n 1.现在可使用‘分阶段关键帧功能’\n2.在许可证页面添加了管理员模式\n改进功能：\n1.改进缓动导入的验证\n2.修复了分阶段工具中的startTime NaN的错误\n",
+    "uptime" : "2024-06-26 11:16 AM",
+    "updateJsonUrl" : "https://cdn.jsdelivr.net/gh/Dongyifengs/CEP-Update@main/Motionv4/json/Motionv4update.json",
+    "updateFileUrl" : "http://127.0.0.1/Plugins/Motion4/Motion4.3.4.zip",
+    "updateFileSize" : "1.01MB",
+    "minCompatibleVersion" : 4.00,
+    "forceUpdate": false,
+    "updateType": "版本更新",
+    "updateHash": "eb9abed44e63ad075268f1cbf9495271f2e9b2c3",
+    "languages" : "zh-cn",
+    "publisher": "MoYiJiangNans and Wzp",
+    "channel": "Stable",
+    "additionalNotes": "额外备注，我也不知道写什么"
 }
