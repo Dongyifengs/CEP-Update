@@ -1,0 +1,18 @@
+{
+    "version" :152.001,
+    "title" : "Flow 1.5.2更新",
+    "about" : "新增功能：\n 1.汉化Flow1.5.2脚本",
+    "uptime" : "2024-07-27 12：52 AM",
+    "updateJsonUrl" : "https://cdn.jsdelivr.net/gh/Dongyifengs/CEP-Update@main/Flow/json/Flow.json",
+    "updateFileUrl" : "http://127.0.0.1/Plugins/Flow/Flow1.5.2.zip",
+    "updateFileSize" : "1.01MB",
+    "minCompatibleVersion" : 4.00,
+    "forceUpdate": false,
+    "updateType": "版本更新",
+    "updateHash": "eb9abed44e63ad075268f1cbf9495271f2e9b2c3",
+    "languages" : "zh-cn",
+    "publisher": "MoYiJiangNans and Wzp",
+    "channel": "Stable",
+    "additionalNotes": "额外备注，我也不知道写什么",
+    "addQQGroupUrl": "https://qq.com/test"
+}
