@@ -1,0 +1,30 @@
+{
+  "CEPINSTALL": [
+    {
+      "name": "Overlord2",
+      "versions": [
+        {
+          "id": 1,
+          "version": "1.0",
+          "file_size": "50MB",
+          "file_url": "https://example.com/overlord2_v1.0.zip",
+          "md5": "d41d8cd98f00b204e9800998ecf8427e",
+          "compatible_software": ["IDSN","ILST","PHXS"]
+
+        },
+        {
+          "id": 2,
+          "version": "2.0",
+          "file_size": "75MB",
+          "file_url": "https://example.com/overlord2_v2.0.zip",
+          "md5": "a7c4d9f3b2d4b9a65f8fa9955c6d7351",
+          "compatible_software": ["IDSN","ILST","PHXS"]
+        }
+      ]
+    }
+  ],
+  "PLUGINS": [],
+  "SCRIPT": [],
+  "SCRIPTUI": [],
+  "EXEVSERSION": []
+}
