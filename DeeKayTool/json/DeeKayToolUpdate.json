@@ -1,6 +1,39 @@
 {
-    "version" : 1,
-    "title" : "DeeKayTool 首次创建",
-    "about" : "DeeKayTool 首次创建",
-    "uptime" : "2023-03-22 16：02"
-}
+    "CEPINSTALL": [
+      {
+        "name": "DeeKayTool1.1.8",
+        "description": "一个Ae人物控制插件",
+        "developer": "Dongyifeng",
+        "category": "Utilities",
+        "release_date": "2025-01-05",
+        "license": "Free",
+        "versions": [
+          {
+            "id": 1,
+            "version": "1.1.8",
+            "versionNum": 118000,
+            "file_size": "50MB",
+            "file_url": "https://127.0.0.1/DeeKayTool/DeeKayTool1.8.0.000.zip",
+            "md5": "d41d8cd98f00b204e9800998ecf8427e",
+            "compatible_software": ["AEFT"],
+            "change_log": "更新日志v1.0\t\t首次创建DeeKayTool1.1.8",
+            "is_deprecated": true
+          }
+        ],
+        "tags": ["After Effects"],
+        "rating": 100.0,
+        "total_downloads": 999999999
+      }
+    ],
+    "PLUGINS": [],
+    "SCRIPT": [],
+    "SCRIPTUI": [],
+    "EXEVSERSION": [],
+    "SUPPORT": {
+      "email": "dongyifengs@gmail.com",
+      "website": "https://moyijiangnan.cn",
+      "faq": "https://moyijiangnan.cn/faq",
+      "explain": "资源仅供学习参考，请下载24小时内删除，本人不承担任何责任。"
+    }
+  }
+  
