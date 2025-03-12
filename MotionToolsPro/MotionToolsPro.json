@@ -1,0 +1,38 @@
+{
+    "CEPINSTALL": [
+      {
+        "name": "MotionToolsPro",
+        "description": "我们的独家 After Effects 插件仅包含最必要的功能，这将提升您的工作效率！",
+        "developer": "Dongyifeng",
+        "category": "Utilities",
+        "release_date": "2025-03-12",
+        "license": "Free",
+        "versions": [
+          {
+            "id": 1,
+            "version": "1.4.2",
+            "versionNum": 142000,
+            "file_size": "2.6MB",
+            "file_url": "https://127.0.0.1/AeScriptTools/MotionToolsPro_v1.4.2.zip",
+            "md5": "d41d8cd98f00b204e9800998ecf8427e",
+            "compatible_software": ["AEFS"],
+            "change_log": "更新日志v1.4.2",
+            "is_deprecated": true
+          }
+        ],
+        "tags": ["After Effects"],
+        "rating": 5.0,
+        "total_downloads": 999
+      }
+    ],
+    "PLUGINS": [],
+    "SCRIPT": [],
+    "SCRIPTUI": [],
+    "EXEVSERSION": [],
+    "SUPPORT": {
+      "email": "dongyifengs@gmail.com",
+      "website": "https://moyijiangnan.cn",
+      "faq": "https://moyijiangnan.cn/faq",
+      "explain": "资源仅供学习参考，请下载24小时内删除，本人不承担任何责任。"
+    }
+  }
