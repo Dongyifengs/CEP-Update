@@ -1,0 +1,7 @@
+{
+    "id": 264,
+    "version": "2.6.4",
+    "versionNum": 2.64000,
+    "compatibleSoftware": ["ILST", "PHXS", "FIGMA", "AEFT"],
+    "changeLog": "INIT"
+}
